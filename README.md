@@ -184,6 +184,7 @@ To run nodemon for your app:
 + File Management APIs
 + Role Based Access Control
 + Request Stats Tracking
++ Request Latency Instrumentation
 + Audit Logs
 + Business Object Caching
 + Service Orchestration
